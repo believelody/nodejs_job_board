@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_job_board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/believelody/nodejs_job_board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/believelody/nodejs_job_board/issues"
+  },
+  "homepage": "https://github.com/believelody/nodejs_job_board#readme"
+}
